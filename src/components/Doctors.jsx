@@ -27,7 +27,7 @@ export default function Doctors() {
               <div className="group cursor-pointer">
                 <div className="w-48 h-48 mx-auto mb-6 rounded-full overflow-hidden bg-gray-200 border-4 border-blue-50 group-hover:border-blue-300 transition-all duration-300 group-hover:shadow-xl">
                   <img 
-                    src={`https://i.pravatar.cc/300?img=${index + 10}`} 
+                    src={`https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png`} 
                     alt={doc.name} 
                     className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                   />
