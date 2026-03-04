@@ -1,16 +1,27 @@
-# React + Vite
+# Choice Dental Clinic
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A fully responsive, modern, and professional single-page website built for Choice Dental Clinic. This project features premium scroll animations, a clean medical UI, and a direct-to-WhatsApp appointment booking system.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Overview
 
-## React Compiler
+This project is a component-driven React application designed specifically for a dental practice. It prioritizes user trust, ease of navigation, and rapid conversion through integrated communication tools.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Key Features**
+* **Modern UI/UX:** Clean, trustworthy design using a white and soft blue color palette.
+* **Fully Responsive:** Mobile-first design that adapts seamlessly to phones, tablets, and desktops.
+* **Premium Animations:** Smooth scrolling, staggered reveal animations, and typewriter effects powered by React Bits, Framer Motion, and GSAP.
+* **WhatsApp Integration:** A functional appointment form that formats patient details and sends them directly to the clinic's WhatsApp number.
+* **Component-Driven:** Clean and modular React file structure for easy maintenance and scalability.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Tech Stack
+
+| Category | Technology |
+| :--- | :--- |
+| **Framework** | React (via Vite) |
+| **Styling** | Tailwind CSS |
+| **Icons** | Lucide React |
+| **Animations** | Framer Motion, GSAP, React Bits |
