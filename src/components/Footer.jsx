@@ -10,7 +10,7 @@ export default function Footer() {
         <AnimatedContent distance={30} direction="vertical" duration={0.6}>
           <div>
             <h4 className="text-2xl font-bold text-white flex items-center gap-2 mb-4">
-              <Activity className="text-blue-400" />
+              <img src="/logo2.png" alt="logo" className='w-10 h-10'/>
               Choice Dental
             </h4>
             <p className="text-blue-200 text-sm mb-4 leading-relaxed">
@@ -28,7 +28,7 @@ export default function Footer() {
             <h4 className="text-lg font-bold text-white mb-4">Contact Info</h4>
             <ul className="space-y-3">
               <li className="flex items-start gap-3">
-                <MapPin size={20} className="text-blue-400 flex-shrink-0 mt-1" />
+                <MapPin size={20} className="text-blue-400 sshrink-0 mt-1" />
                 <span className="text-sm leading-relaxed">Ayarkunnam - Kidangoor Rd,<br/>opposite LLM Nursery School,<br/>Kidangoor, Kerala 686572</span>
               </li>
               <li className="flex items-center gap-3 mt-4">

@@ -10,7 +10,7 @@ export default function Navbar() {
         <div className="flex justify-between h-20">
           <div className="flex items-center">
             <span className="text-2xl font-bold text-blue-800 flex items-center gap-2">
-              <Activity className="text-blue-600" />
+              <img src="/logo2.png" alt="logo" className='w-10 h-10'/>
               Choice Dental Clinic
             </span>
           </div>
